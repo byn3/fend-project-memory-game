@@ -21,10 +21,10 @@ Enjoy!
 
 ### Contributors
 
-Udacity provided the skeleton of this project (https://github.com/udacity/fend-project-memory-game) containing the HTML and CSS.
-I handled the Javascript section (app.js) and used jQuery, font-awesome, and sweetalert2.
-This was done as part of the Front-End Web Developer Nanodegree program which I earned a scholarship in.
-This project falls under the sections: web foundations and programming with Javascript.
+Udacity provided the skeleton of this project (https://github.com/udacity/fend-project-memory-game) containing the HTML and CSS.  
+I handled the Javascript section (app.js) and used jQuery, font-awesome, and sweetalert2.  
+This was done as part of the Front-End Web Developer Nanodegree program which I earned a scholarship in.  
+This project falls under the sections: web foundations and programming with Javascript.  
 
 #### Bugs
 
