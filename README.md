@@ -1,5 +1,7 @@
 # Memory Game Project
 
+![Screenshot of this card matching game](https://github.com/byn3/fend-project-memory-game/blob/master/img/memory.png?raw=true "Example Screenshot")
+
 ## Installation Instructions
 
 Download or clone this repository.  
